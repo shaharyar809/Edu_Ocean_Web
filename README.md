@@ -1,6 +1,6 @@
 <h1>Edu_Ocean_Web</h1>
 <p float="left">
-<img src="https://github.com/shaharyar809/Edu_Ocean_Web/blob/main/output/Login%20Screen.jpeg" width="100%">
+<img src="https://github.com/shaharyar809/Edu_Ocean_Web/blob/main/output/Login%20Screen.jpeg" width="19%">
 <img src="https://github.com/shaharyar809/Edu_Ocean_Web/blob/main/output/Home%20Screen.jpeg" width="19%">
 <img src="https://github.com/shaharyar809/Edu_Ocean_Web/blob/main/output/Insert%20Screen.jpeg" width="19%">
 <img src="https://github.com/shaharyar809/Edu_Ocean_Web/blob/main/output/Update%20Screen.jpeg" width="19%">
